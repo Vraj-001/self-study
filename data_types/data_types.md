@@ -11,5 +11,3 @@ Built in Data types
 6. Boolean Types: bool
 7. Binary Types: bytes, bytearray, memoryview
 8. None Type: NoneType
-
-jnvkjcbvhb
